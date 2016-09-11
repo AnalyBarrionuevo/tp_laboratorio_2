@@ -1,0 +1,9 @@
+C:\Any\TP01_BarrionuevoAnaly\TP01_BarrionuevoAnaly\bin\Debug\TP01_BarrionuevoAnaly.exe.config
+C:\Any\TP01_BarrionuevoAnaly\TP01_BarrionuevoAnaly\bin\Debug\TP01_BarrionuevoAnaly.exe
+C:\Any\TP01_BarrionuevoAnaly\TP01_BarrionuevoAnaly\bin\Debug\TP01_BarrionuevoAnaly.pdb
+C:\Any\TP01_BarrionuevoAnaly\TP01_BarrionuevoAnaly\obj\Debug\TP01_BarrionuevoAnaly.csprojResolveAssemblyReference.cache
+C:\Any\TP01_BarrionuevoAnaly\TP01_BarrionuevoAnaly\obj\Debug\TP01_BarrionuevoAnaly.Form1.resources
+C:\Any\TP01_BarrionuevoAnaly\TP01_BarrionuevoAnaly\obj\Debug\TP01_BarrionuevoAnaly.Properties.Resources.resources
+C:\Any\TP01_BarrionuevoAnaly\TP01_BarrionuevoAnaly\obj\Debug\TP01_BarrionuevoAnaly.csproj.GenerateResource.Cache
+C:\Any\TP01_BarrionuevoAnaly\TP01_BarrionuevoAnaly\obj\Debug\TP01_BarrionuevoAnaly.exe
+C:\Any\TP01_BarrionuevoAnaly\TP01_BarrionuevoAnaly\obj\Debug\TP01_BarrionuevoAnaly.pdb
